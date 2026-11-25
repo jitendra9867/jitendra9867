@@ -15,12 +15,12 @@
 
 ## 👨‍💻 About Me
 
-I'm Jitendra Nigam, a passionate Full Stack Web Developer with 9+ years of experience and 1000+ projects developed.
+I'm Jitendra Nigam, a passionate Full Stack Web Developer with 9+ years of experience and 200+ projects developed.
 
 I specialize in building modern, responsive, scalable and user-friendly web applications.
 
 - 💻 9+ Years of Web Development Experience
-- 🚀 1000+ Projects Developed
+- 🚀 200+ Projects Developed
 - ⚛️ React.js & Next.js Web Development
 - 🌐 WordPress & Custom Theme Development
 - 🛒 WooCommerce & Multi-Vendor Marketplace
